@@ -1,4 +1,4 @@
-# <img src="./assets/imgs/scala.png"  width="5%"/> **Scala Hero** <img src="./assets/imgs/scala.png"  width="5%"/>
+# <img src="./assets/imgs/scala.png"  width="5%"/> **SCALA HERO** <img src="./assets/imgs/scala.png"  width="5%"/>
 This is a repository created with the purpose of gain knowledge about scala programming language in order to be able to build and develop optimal Big Data applications using Spark. 
 
 <p align="center">
